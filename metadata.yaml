@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '42903'
     url: http://www.gutenberg.org/2009/agents/42903
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44749#M-moires-de-l-Imp-ratrice-Catherine-II.-crits-par-elle-m-me
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2014-01-24'
 gutenberg_type: Text
